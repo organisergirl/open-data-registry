@@ -12,7 +12,7 @@ Tags:
   - aws-pds
   - climate
   - sustainability
-License: "Creative Commons Attribution-ShareAlike 4.0 International Licence"
+Licence: "Creative Commons Attribution-ShareAlike 4.0 International Licence"
 Resources:
   - Description: "CSIRO Climate retrospective Analysis and Forecast Ensemble system: version 1 (CAFE60v1) data"
     ARN: arn:aws:s3:::cafe60-reanalysis-dataset-aws-open-data
